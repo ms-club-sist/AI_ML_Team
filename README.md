@@ -1,2 +1,21 @@
-# AI_ML_Team
-This repository is to document the projects done by the members of AI-ML Team under Microsoft Club SIST
+## AI - ML Team
+
+Welcome to the AI & Machine Learning Team of the Microsoft Club!
+
+## 🧠 What We Do
+We explore modern artificial intelligence topics like supervised and unsupervised learning, deep learning, NLP, and more.
+
+## 🚀 Activities
+- Organize weekly ML challenges
+- Host sessions on Python, scikit-learn, TensorFlow
+- Build collaborative AI projects
+
+## 🔍 Skills You Can Gain
+- Model building
+- Dataset preprocessing
+- Training and evaluation of algorithms
+- Real-world AI deployment
+
+Join us if you want to dive deep into the world of data and intelligence!
+
+
