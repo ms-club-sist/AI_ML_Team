@@ -1,4 +1,4 @@
-## AI - ML Team
+## 🤖 AI - ML Team
 
 Welcome to the AI & Machine Learning Team of the Microsoft Club!
 
