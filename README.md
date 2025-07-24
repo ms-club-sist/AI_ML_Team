@@ -6,7 +6,7 @@ Welcome to AI & ML Team of the Microsoft Club!
 
 | Project                  | Repository Link                                                                                                                             |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| Microsoft Club Main Repo | [github.com/antoedison/Microsoft\_Club](https://github.com/antoedison/Microsoft_Club)                                                       |
+| Mobile price prediction model | [github.com/antoedison/Microsoft\_Club](https://github.com/antoedison/Microsoft_Club)                                                       |
 | Churn Predictor App      | [github.com/Somaskandan931/churn-predictor-app](https://github.com/Somaskandan931/churn-predictor-app)                                      |
 | Wine Quality Prediction  | [github.com/Prisha169/Wine-Quality-Prediction](https://github.com/Prisha169/Wine-Quality-Prediction.git)                                    |
 | MCS Task                 | [github.com/AntoJeffrinG/MCS-Task](https://github.com/AntoJeffrinG/MCS-Task)                                                                |
